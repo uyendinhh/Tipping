@@ -12,6 +12,7 @@
 		DAD944EF234857ED0080EA55 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAD944ED234857ED0080EA55 /* Main.storyboard */; };
 		DAD944F1234857EF0080EA55 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAD944F0234857EF0080EA55 /* Assets.xcassets */; };
 		DAD944F4234857EF0080EA55 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAD944F2234857EF0080EA55 /* LaunchScreen.storyboard */; };
+		DAD944FC23486C210080EA55 /* icons8-money-120.png in Resources */ = {isa = PBXBuildFile; fileRef = DAD944FB23486C210080EA55 /* icons8-money-120.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DAD944F0234857EF0080EA55 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DAD944F3234857EF0080EA55 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DAD944F5234857EF0080EA55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DAD944FB23486C210080EA55 /* icons8-money-120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-money-120.png"; path = "../../../../icons8-money-120.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				DAD944F0234857EF0080EA55 /* Assets.xcassets */,
 				DAD944F2234857EF0080EA55 /* LaunchScreen.storyboard */,
 				DAD944F5234857EF0080EA55 /* Info.plist */,
+				DAD944FB23486C210080EA55 /* icons8-money-120.png */,
 			);
 			path = Tipping;
 			sourceTree = "<group>";
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DAD944FC23486C210080EA55 /* icons8-money-120.png in Resources */,
 				DAD944F4234857EF0080EA55 /* LaunchScreen.storyboard in Resources */,
 				DAD944F1234857EF0080EA55 /* Assets.xcassets in Resources */,
 				DAD944EF234857ED0080EA55 /* Main.storyboard in Resources */,
